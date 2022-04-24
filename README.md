@@ -19,7 +19,8 @@
 
 ## Mock-Up
 
-![](./Assets/images/FullMockUp.png)
+![](./Assets/images/MockUp1.png)
+![](./Assets/images/MockUp2.png)
 
 ## Links
 * GitHub Repository: https://github.com/anthonypacella/ProfessionalPortfolio
